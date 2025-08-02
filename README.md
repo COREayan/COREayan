@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Ayanabha Pramanik (COREayan)
 
-<!--
-**COREayan/COREayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer actively learning and building projects across various domains:
+- Object‑oriented programming, SOLID design principles and Design Patterns.
+- Concurrency, multithreading, and performance tuning.
+- GraphQL APIs with Spring Boot & Spring Data JPA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+
+- GitHub: [@COREayan](https://github.com/COREayan)  
+- LinkedIn: [linkedin.com/in/ayanabha-pramanik-b70209178](https://www.linkedin.com/in/ayanabha-pramanik-b70209178)  
+- Email: [ayanabha.pramanik.ee@gmail.com](mailto:ayanabha.pramanik.ee@gmail.com)
+
+---
