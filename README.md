@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ayanabha Pramanik (COREayan)
+## 👋 Hello, I'm Ayanabha Pramanik (COREayan)
 
 I'm a passionate Software Engineer actively learning and building projects across various domains:
 - Object‑oriented programming, SOLID design principles and Design Patterns.
