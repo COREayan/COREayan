@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** actively learning complex topics and expl
 - Concurrency, Multithreading, and Parallel Computing.
 - GraphQL APIs with Spring Boot & Spring Data JPA.
 
-I'm committed to continuous learning and building scalable, efficient systems that make a real-world impact.
+I'm committed to Continuous Learning and building scalable, efficient systems that make a real-world impact.
 
 ---
 
