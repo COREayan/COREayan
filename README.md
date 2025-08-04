@@ -1,11 +1,11 @@
 ## 👋 Hello, I'm Ayanabha Pramanik (COREayan)
 
-I'm a passionate Software Engineer actively learning complex topics and exploring various domains:
+I'm a passionate **Software Engineer** actively learning complex topics and exploring various domains:
 - Data Structures & Algorithms, Problem Solving, System Design.
 - Object‑Oriented Programming, SOLID Design Principles and Design Patterns.
 - Concurrency, Multithreading, and Parallel Computing.
 - GraphQL APIs with Spring Boot & Spring Data JPA.
-
+I'm committed to continuous learning and building scalable, efficient systems that make a real-world impact.
 ---
 ## 🛠️ Technical Skills
 
