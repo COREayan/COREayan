@@ -5,6 +5,7 @@ I'm a passionate **Software Engineer** actively learning complex topics and expl
 - Object‑Oriented Programming, SOLID Design Principles and Design Patterns.
 - Concurrency, Multithreading, and Parallel Computing.
 - GraphQL APIs with Spring Boot & Spring Data JPA.
+- Solving Mathematics Problems & Puzzles. 
 
 I'm committed to Continuous Learning and building scalable, efficient systems that make a real-world impact.
 
