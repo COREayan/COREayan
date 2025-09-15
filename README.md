@@ -37,7 +37,6 @@ Outside of tech, I enjoy immersing myself in a variety of enriching experiences:
 
 ## 📫 Get in Touch
 
-- GitHub: [@COREayan](https://github.com/COREayan)  
 - LinkedIn: [linkedin.com/in/ayanabha-pramanik-b70209178](https://www.linkedin.com/in/ayanabha-pramanik-b70209178)  
 - Email: [ayanabha.pramanik.ee@gmail.com](mailto:ayanabha.pramanik.ee@gmail.com)
 
