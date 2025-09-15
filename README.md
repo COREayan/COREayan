@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Ayanabha Pramanik (COREayan)
+## 👋 Hello, I'm Ayanabha Pramanik (Ayan)
 
 I'm a passionate **Software Engineer** actively learning complex topics and exploring various domains:
 - Data Structures & Algorithms, Problem Solving, System Design.
