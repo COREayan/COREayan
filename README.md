@@ -31,7 +31,7 @@ Outside of tech, I enjoy immersing myself in a variety of enriching experiences:
 - 🚴‍♂️ Cycling through quiet trails  
 - 🌊 Relaxing on beaches & 🏔️ hiking in the mountains  
 - 🌍 Travelling and learning from new culture
-- 🎥 Watching anime & diving into new stories
+- 🎥 Watching Anime & diving into new stories
 
 ---
 
