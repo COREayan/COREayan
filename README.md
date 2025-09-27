@@ -11,9 +11,9 @@ I'm committed to Continuous Learning and building scalable, efficient systems th
 
 ---
 
-<img width="90" height="160" alt="image" src="https://github.com/user-attachments/assets/adbfd2ca-76da-4c81-98ba-2cf0b0afbd98" />
-<img width="90" height="160" alt="image" src="https://github.com/user-attachments/assets/254c58cc-367c-4706-a2e1-21d4a7a3f361" />
-<img width="90" height="160" alt="image" src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" />
+<img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/adbfd2ca-76da-4c81-98ba-2cf0b0afbd98" />
+<img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/254c58cc-367c-4706-a2e1-21d4a7a3f361" />
+<img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" />
 
 ---
 <!--
