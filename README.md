@@ -10,6 +10,10 @@ I'm a passionate **Software Engineer** actively learning complex topics and expl
 I'm committed to Continuous Learning and building scalable, efficient systems that make a real-world impact.
 
 ---
+
+<img width="431" height="173" alt="image" src="https://github.com/user-attachments/assets/0bf91993-28f4-4fc1-8c11-209ab2b8b2a9" />
+
+---
 <!--
 ## 🛠️ Technical Skills
 
