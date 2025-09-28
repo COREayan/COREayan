@@ -15,6 +15,8 @@ I'm committed to Continuous Learning and building scalable, efficient systems th
 <img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/adbfd2ca-76da-4c81-98ba-2cf0b0afbd98" />
 <img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" />
 
+Over the last 3 years, I solved 450+ LeetCode problems independently. I focused on revisiting and re-solving problems until I deeply understood the patterns like DP, Graphs, and Greedy. This consistency helped me develop strong problem-solving intuition, which I can now apply quickly in interviews and real-world coding.
+
 ---
 <!--
 ## 🛠️ Technical Skills
