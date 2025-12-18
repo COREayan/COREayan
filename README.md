@@ -46,5 +46,6 @@ Outside of tech, I enjoy immersing myself in a variety of enriching experiences:
 
 - LinkedIn: [linkedin.com/in/ayanabha-pramanik-b70209178](https://www.linkedin.com/in/ayanabha-pramanik-b70209178)  
 - Email: [ayanabha.pramanik.ee@gmail.com](mailto:ayanabha.pramanik.ee@gmail.com)
+- Instagram: [@ayanabha_p](https://www.instagram.com/ayanabha_p/)
 
 ---
