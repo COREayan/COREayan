@@ -11,11 +11,13 @@ I'm committed to Continuous Learning and building scalable, efficient systems th
 
 ---
 
-<div style="display: flex; gap: 10px;">
-  <img width="180" height="320" src="https://github.com/user-attachments/assets/254c58cc-367c-4706-a2e1-21d4a7a3f361" />
-  <img width="180" height="320" src="https://github.com/user-attachments/assets/adbfd2ca-76da-4c81-98ba-2cf0b0afbd98" />
-  <img width="180" height="320" src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/254c58cc-367c-4706-a2e1-21d4a7a3f361" width="180" height="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/adbfd2ca-76da-4c81-98ba-2cf0b0afbd98" width="180" height="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" width="180" height="320"/></td>
+  </tr>
+</table>
 ---
 <!--
 ## 🛠️ Technical Skills
