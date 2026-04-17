@@ -18,7 +18,7 @@ I'm committed to Continuous Learning and building scalable, efficient systems th
     <td><img src="https://github.com/user-attachments/assets/c8585c89-ef3f-41c8-adda-7cf78f84f502" width="180" height="320"/></td>
   </tr>
 </table>
----
+
 <!--
 ## 🛠️ Technical Skills
 
